@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-bhhjjvhvhghghg
 hello
-
-=======
-hhjjvhvhghghg
-
->>>>>>> conflict
